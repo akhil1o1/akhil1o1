@@ -9,7 +9,7 @@ I have created multiple projects which includes react apps and fullstack mern ap
 - :open_file_folder: My portfolio is available at https://akhilpanwar-portfolio.netlify.app/
 - :globe_with_meridians: I am currently working on a food deivery web app project.
 - :computer: I am currently learning redux and advance nodejs.
-- :envelope: You can reach me via [LinedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
+- :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### My web dev skills.
 :one: HTML5, CSS3, JavaScript, Bootstrap, EJS
