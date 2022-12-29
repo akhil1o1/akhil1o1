@@ -3,7 +3,7 @@
 
 ### **I am a Full Stack Web Developer**.
 ### I work with **MERN** stack to create end to end web applications.
-:eyes: I am looking for a MERN stack developer role.
+<!-- :eyes: I am looking for a MERN stack developer role. -->
 
 I have created multiple projects which includes react apps and fullstack mern apps.
 - :open_file_folder: My portfolio is available at https://akhilpanwar-portfolio.netlify.app/
