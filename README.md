@@ -12,15 +12,15 @@ I have created multiple projects which includes react apps and fullstack mern ap
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### My web dev skills.
-:one: HTML5, CSS3, JavaScript, Bootstrap, EJS
+:one: HTML5, CSS3, JavaScript/ES6, Bootstrap, EJS
 
-:two: ReactJS, Redux, Material UI 
+:two: ReactJS, Redux, Material UI, Antdesign 
 
 :three: NodeJS, Express
 
 :four: MongoDB, Mongoose
 ### Tools I use.
-VS Code, Postman, Github, Heroku, Netlify.
+VS Code, Postman, Github, Heroku, Netlify, Railway
 
 
 
