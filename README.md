@@ -16,7 +16,7 @@ I have created multiple projects which includes react apps and fullstack mern ap
 
 :two: ReactJS, Redux, Material UI, Antdesign 
 
-:three: NodeJS, Express
+:three: NodeJS, Express, REST api
 
 :four: MongoDB, Mongoose
 ### Tools I use.
