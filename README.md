@@ -20,7 +20,7 @@ I have created multiple projects which includes react apps and fullstack mern ap
 
 :four: MongoDB, Mongoose
 ### Tools I use.
-VS Code, Postman, Github, Heroku, Netlify, Railway
+VS Code, Postman, Github, Gitlab, Heroku, Netlify, Railway
 
 
 
