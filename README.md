@@ -19,6 +19,8 @@ I have created multiple projects which includes react apps and fullstack mern ap
 :three: NodeJS, Express, REST api
 
 :four: MongoDB, Mongoose
+
+:five: Sequelize, MySQL
 ### Tools I use.
 VS Code, Postman, Github, Gitlab, Heroku, Netlify, Railway
 
