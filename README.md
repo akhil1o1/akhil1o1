@@ -5,7 +5,7 @@
 ### I work with **MERN** stack to create end to end web applications.
 <!-- :eyes: I am looking for a MERN stack developer role. -->
 
-I have created multiple projects which includes react apps and fullstack mern apps.
+I have created multiple projects which include react apps and full stack mern apps.
 - :open_file_folder: My portfolio is available at https://akhilpanwar-portfolio.netlify.app/
 - :globe_with_meridians: I am currently working as a JavaScript developer at Prospectss.
 - :computer: I am currently learning redux and advance nodejs.
@@ -14,9 +14,9 @@ I have created multiple projects which includes react apps and fullstack mern ap
 ### My web dev skills.
 :one: HTML5, CSS3, JavaScript/ES6, Bootstrap, EJS
 
-:two: ReactJS, Redux, Material UI, Antdesign 
+:two: ReactJS, Redux, Material UI, Antdesign, Framer-motion
 
-:three: NodeJS, Express, REST api
+:three: NodeJS, Express, REST API
 
 :four: MongoDB, Mongoose
 
