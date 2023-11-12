@@ -6,7 +6,7 @@
 <!-- :eyes: I am looking for a MERN stack developer role. -->
 
 I have created multiple projects which include react apps and full stack mern apps.
-- :open_file_folder: My portfolio is available at https://akhilpanwar-portfolio.netlify.app/
+- :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
 - :globe_with_meridians: I am currently working as a JavaScript developer at Prospectss.
 - :computer: I am currently learning redux and advance nodejs.
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
