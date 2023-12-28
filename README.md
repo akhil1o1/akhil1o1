@@ -14,7 +14,7 @@ I have created multiple projects which include react apps and full stack mern ap
 ### My web dev skills.
 :one: HTML5, CSS3, JavaScript/ES6, Bootstrap, EJS
 
-:two: ReactJS, Redux, Material UI, Antdesign, Framer-motion
+:two: ReactJS, Redux, React-router, Material UI, Antdesign, Framer-motion
 
 :three: NodeJS, Express, REST API
 
