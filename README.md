@@ -7,7 +7,7 @@
 
 I have created multiple projects which include react apps and full stack mern apps.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
-- :globe_with_meridians: I am currently working as a JavaScript developer at Abun.
+- :globe_with_meridians: I am currently working as a Frontend developer at Abun.
 - :computer: I am currently learning Typscript, Docker and advance Nodejs.
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
