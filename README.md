@@ -21,7 +21,7 @@ I have created multiple projects which include react apps and full stack mern ap
 :four: MongoDB, Mongoose
 
 :five: Sequelize, MySQL
-### Tools I use.
+### Other Tools I use.
 VS Code, Postman, Github, Gitlab, Heroku, Netlify, Railway
 
 
