@@ -22,7 +22,7 @@ I have created multiple projects which include react apps and full stack mern ap
 
 :five: Sequelize, MySQL
 ### Other Tools I use.
-VS Code, Postman, Github, Gitlab, Heroku, Netlify, Railway
+VS Code, Postman, Docker, Github, Gitlab, Heroku, Netlify, Railway
 
 
 
