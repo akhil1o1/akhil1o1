@@ -2,10 +2,10 @@
 ---
 
 ### **I am a Full Stack Web Developer**.
-### I work with **MERN** stack to create end to end web applications.
+### I work with **MERN** stack and **NextJS** to create end to end web applications.
 <!-- :eyes: I am looking for a MERN stack developer role. -->
 
-I have created multiple projects which include react apps and full stack mern apps.
+I have created multiple projects which include react apps and full stack mern and NextJS apps.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
 - :globe_with_meridians: I am currently working as a Frontend developer.
 - :computer: I am currently learning NextJS.
@@ -14,15 +14,15 @@ I have created multiple projects which include react apps and full stack mern ap
 ### My web dev skills.
 :one: HTML5, CSS3, SASS, JavaScript/ES6, Bootstrap, EJS, Typescript
 
-:two: ReactJS, NextJS Redux, React-router, Material UI, Tailwind CSS, Framer-motion
+:two: ReactJS, NextJS, Redux, React-router, React Query, Tailwind CSS, ShadCn UI, Material UI, Framer-motion
 
 :three: NodeJS, Express, REST API
 
 :four: MongoDB, Mongoose
 
-:five: Sequelize, MySQL
+:five: Sequelize, MySQL, PostgreSQL, Prisma
 ### Other Tools I use.
-VS Code, Postman, Docker, Github, Gitlab, Heroku, Netlify, Railway
+VS Code, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
 
 
 
