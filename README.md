@@ -7,14 +7,14 @@
 
 I have created multiple projects which include react apps and full stack mern apps.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
-- :globe_with_meridians: I am currently working as a Frontend developer at Abun.
+- :globe_with_meridians: I am currently working as a Frontend developer.
 - :computer: I am currently learning NextJS.
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### My web dev skills.
 :one: HTML5, CSS3, SASS, JavaScript/ES6, Bootstrap, EJS, Typescript
 
-:two: ReactJS, Redux, React-router, Material UI, Tailwind CSS, Framer-motion
+:two: ReactJS, NextJS Redux, React-router, Material UI, Tailwind CSS, Framer-motion
 
 :three: NodeJS, Express, REST API
 
