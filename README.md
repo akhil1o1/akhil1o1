@@ -5,7 +5,7 @@
 ### I work with **MERN** stack, **NextJS** and **React Native** to create web and mobile applications.
 <!-- :eyes: I am looking for a MERN stack developer role. -->
 
-I have worked on multiple Saas projects which include react, full stack MERN,  and NextJS applications.
+I have worked on multiple projects which include React, MERN, and NextJS applications.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
 - :globe_with_meridians: I am currently working as a Frontend developer.
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
