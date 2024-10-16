@@ -11,7 +11,7 @@ I have worked on multiple projects which include React, MERN, and NextJS applica
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### My dev skills.
-:one: HTML5, CSS3, SASS, JavaScript/ES6, Bootstrap, EJS, Typescript
+:one: HTML5, CSS3, SASS, JavaScript/ES6, Bootstrap, Typescript
 
 :two: ReactJS, React Native, NextJS, Redux, React-router, React Query, Tailwind CSS, ShadCn UI, Material UI, Framer-motion
 
