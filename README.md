@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Akhil Panwar - welcome to my Github
 ---
 
-### **I am a Web Developer**.
+### **I am a JavaScript Developer**.
 ### I work with **MERN** stack, **NextJS** and **React Native** to create web and mobile applications.
 <!-- :eyes: I am looking for a MERN stack developer role. -->
 
