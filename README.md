@@ -7,7 +7,7 @@
 
 I have worked on multiple professional projects which include React, NextJS, and MERN applications.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
-- :globe_with_meridians: I currently work as a Frontend (React) developer.
+- :globe_with_meridians: I currently work as a Software Developer(React).
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### My dev skills.
