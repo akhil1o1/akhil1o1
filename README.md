@@ -19,7 +19,7 @@ I have worked on multiple professional projects utilizing React, NextJS, and MER
 :four: MongoDB, Mongoose
 
 :five: Sequelize, MySQL, PostgreSQL, Prisma
-### 🧰 **Developer Tools I Use**  
+### 🧰 **Other Tools I Use**  
 VS Code, ChatGPT, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
 
 
