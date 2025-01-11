@@ -10,9 +10,9 @@ I have worked on multiple professional projects utilizing React, NextJS, and MER
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### 🛠️ **Tech Stack & Skills** .
-:one: HTML5, CSS3, SASS, JavaScript/ES6, Bootstrap, Typescript
+:one: HTML5, CSS3, SASS, Tailwind CSS, JavaScript/ES6, Bootstrap, Typescript
 
-:two: ReactJS, React Native, NextJS, Redux, React-router, React Query, Tailwind CSS, ShadCn UI, Material UI, Framer-motion
+:two: ReactJS, React Native, NextJS, Redux, React-router, React Query, ShadCn UI, Material UI, Framer-motion
 
 :three: NodeJS, Express, REST API
 
