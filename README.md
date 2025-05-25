@@ -20,7 +20,7 @@ I have worked on multiple professional projects utilizing React, NextJS, and MER
 
 :five: Sequelize, MySQL, PostgreSQL, Prisma
 ### 🧰 **Other Tools I Use**  
-VS Code, ChatGPT, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
+VS Code, AI, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
 
 
 
