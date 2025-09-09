@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Akhil Panwar - welcome to my Github
+## Hi there 👋 My name is Akhil Panwar - welcome to my GitHub
 ---
 
-### **I am a JavaScript Developer, Frontend Specialist, and Full-stack enthusiast**.
+### **I am a JavaScript Developer, Frontend Specialist, and Backend enthusiast**.
 ### I work with technologies like **React**, **Node**, **NextJS** and **React Native** to create modern and performant **web** and **mobile applications**.
 
 I have worked on multiple professional projects like web extensions, gen AI Saas products, and ERP solutions utilizing React, NextJS, and MERN technologies.
