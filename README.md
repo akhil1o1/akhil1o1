@@ -12,7 +12,7 @@ I have worked on multiple professional projects like web extensions, gen AI Saas
 ### 🛠️ **Tech Stack & Skills** .
 :one: HTML5, CSS3, SASS, Tailwind CSS, JavaScript/ES6, Bootstrap, Typescript
 
-:two: ReactJS, React Native, NextJS, Redux, React-router, React Query, ShadCn UI, Material UI, Framer-motion, Jest, Vitest, NX Monorepo
+:two: ReactJS, React Native, NextJS, Redux, React-router, Tanstack, ShadCn UI, Material UI, Framer-motion, Jest, Vitest, NX Monorepo
 
 :three: NodeJS, Express, REST API
 
