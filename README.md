@@ -6,7 +6,7 @@
 
 I have worked on multiple professional projects like web extensions, gen AI Saas products, and ERP solutions utilizing React, NextJS, and MERN technologies.
 - :open_file_folder: My portfolio is available at https://akhil-panwar-portfolio.netlify.app/
-- :globe_with_meridians: I currently work as a **Software Developer(React)**.
+- :globe_with_meridians: I currently work as a **Senior Software Developer(React)**.
 - :envelope: You can reach me via [LinkedIn](https://www.linkedin.com/in/akhil-panwar-/) or akhilpanwar180@gmail.com
 ---
 ### 🛠️ **Tech Stack & Skills** .
