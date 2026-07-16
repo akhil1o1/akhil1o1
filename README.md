@@ -20,7 +20,7 @@ I have worked on multiple professional projects like web extensions, gen AI Saas
 
 :five: Sequelize, MySQL, PostgreSQL, Prisma
 ### 🧰 **Other Tools I Use**  
-VS Code, AI, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
+VS Code, Claude, Codex, Postman, Docker, Github, Gitlab, Vercel, Heroku, Netlify, 
 
 
 
